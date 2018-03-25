@@ -19,4 +19,11 @@
               
               - The contract must have an account owner.
               
+       
+ **Submission**:
+              - In order to submit, create a folder with your name or an alias and upload a .Sol/.txt file
+              
+              
 *Note: Please state, as a comment in code whether you would like your code to be included in the video*
+
+
