@@ -26,4 +26,5 @@
               
 *Note: Please state, as a comment in code whether you would like your code to be included in the video*
 
+This contract contains a mistake. It is not possible to have a name and age variable, while having accounts update their own.
 
