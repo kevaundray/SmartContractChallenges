@@ -1,0 +1,28 @@
+pragma solidity ^0.4.0;
+// There was no winner this time, the attempts made were missing crucial information
+contract ChallengeOne {
+
+    address owner;
+    mapping(address=>string) nameMap;
+    mapping(address=>uint) ageMap;
+    
+    function ChallengeOne() {
+        owner = msg.sender;
+    }
+    
+    function setName(string _name) {
+        nameMap[msg.sender] = _name;
+    }
+    function setAge(uint _age) {
+        ageMap[msg.sender] = _age;
+    }
+    
+    function getName() returns (string){
+        return nameMap[msg.sender];
+    }
+    
+    function getAge() returns (uint) {
+        return ageMap[msg.sender];
+    }
+    
+}
