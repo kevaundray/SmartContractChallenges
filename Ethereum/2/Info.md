@@ -1,4 +1,4 @@
-# Challenge 2 - N-Gamble
+# Challenge 2: N-Gamble
 
 
 **Required Methods / Templates** : No Oracle
