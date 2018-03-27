@@ -10,6 +10,7 @@
 **Gas requirements** : None
 
 **Description**: 
+
                 - This is a gambling game with N players.
                 
                 - The owner of the contract upon initialising, will specify how many people are playing.
