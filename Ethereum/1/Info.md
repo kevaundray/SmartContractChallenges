@@ -1,7 +1,7 @@
 # Challenge 1
 
 
-**Required Methods / Templates** : setName, setAge, getName, getAge
+**Required Methods / Templates** : None
 
 **Required IDE / Framework** : Remix
 
@@ -15,9 +15,6 @@
 
               - Accounts are not allowed to change the name of other accounts name and age.
               
-              - Name and Age must be declared as public / private.
-              
-              - The contract must have an account owner.
               
        
  **Submission**:
@@ -25,6 +22,3 @@
               
               
 *Note: Please state, as a comment in code whether you would like your code to be included in the video*
-
-This contract contains a mistake. It is not possible to have a name and age variable, while having accounts update their own.
-
