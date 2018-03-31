@@ -18,4 +18,6 @@
                
  **Submission**:
               - In order to submit, create a folder with your name or an alias and upload a .Sol/.txt file
+              
+Hint: Time does not need to be accurate and the the balance should not be the contract balance.
 
