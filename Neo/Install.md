@@ -44,11 +44,13 @@
  
  *If you have two versions of python then "pip install -e ." may not work. Try "pip3 install -e ."*
  
-  ## Step 4: Install private net
+  ## Step 4: Install neo-boa
 
   - pip install neo-boa
   
  *If you have two versions of python then "pip install -e ." may not work. Try "pip3 install -e ."*
+ 
+ *It is highly likely that upon installing neo-python, neo-boa was also installed.*
  
  ## Step 5: Install private net
 
