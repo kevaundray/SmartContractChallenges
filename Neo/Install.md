@@ -44,6 +44,12 @@
  
  *If you have two versions of python then "pip install -e ." may not work. Try "pip3 install -e ."*
  
- ## Step 4: Install private net
+  ## Step 4: Install private net
+
+  - pip install neo-boa
+  
+ *If you have two versions of python then "pip install -e ." may not work. Try "pip3 install -e ."*
+ 
+ ## Step 5: Install private net
 
   - docker pull cityofzion/neo-privatenet
