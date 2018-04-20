@@ -48,7 +48,7 @@
 
   - pip install neo-boa
   
- *If you have two versions of python then "pip install -e ." may not work. Try "pip3 install -e ."*
+ *If you have two versions of python then "pip install neo-boa" may not work. Try "pip3 install neo-boa"*
  
  *It is highly likely that upon installing neo-python, neo-boa was also installed.*
  
