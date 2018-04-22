@@ -55,3 +55,6 @@
  ## Step 5: Install private net
 
   - docker pull cityofzion/neo-privatenet
+  
+  
+  Command to remove the privatenet chain database: rm -rf ~/.neopython/Chains/privnet
