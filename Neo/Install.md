@@ -58,3 +58,7 @@
   
   
   Command to remove the privatenet chain database: rm -rf ~/.neopython/Chains/privnet
+  
+  - Test Commands:
+    - Open Wallet
+    - Send Funds
